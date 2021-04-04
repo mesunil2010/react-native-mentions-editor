@@ -28,7 +28,7 @@ export default StyleSheet.create({
   formmatedTextWrapper: {
     minHeight: 40,
     position: "absolute",
-    top: 0,
+    top: 1000,
     paddingHorizontal: 20,
     paddingVertical: 5,
     width: "100%"
